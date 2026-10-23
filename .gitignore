@@ -11,4 +11,5 @@ artifacts/
 *.gguf
 *.safetensors
 
-
+#VSCode
+.vscode/
