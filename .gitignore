@@ -1,0 +1,14 @@
+#секреты
+.env
+
+#виртуальная оболочка
+.venv/
+__pycache__/
+*.egg-info/
+
+#артефакты ML
+artifacts/
+*.gguf
+*.safetensors
+
+
